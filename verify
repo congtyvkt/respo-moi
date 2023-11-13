@@ -1,0 +1,5 @@
+cd /path/to/your/existing/code 
+git init
+Pointing git init to an existing project directory will execute the same initialization setup as mentioned above, but scoped to that project directory.
+
+git init <project directory>
